@@ -1,4 +1,6 @@
 # dank-memer-auto-bot
+
+!!!! THIS SCRIPT DOES NOT WORK ANYMORE WITH DANK MEMER !!!! (I might update it at some point)
 this bot will automate average dank memer commands such as pls beg, pls fish, and pls dig. 
 REMEMBER to put the cursor over the discrod input box, when the program has started. do NOT turn off your computer while running the bot.
 Plug the computer in so you can run it as much as you want.
